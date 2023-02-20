@@ -4,7 +4,8 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        *://(hd|hq)audiobooks.com/*
+// @include      *://hqaudiobooks.com/*
+// @include      *://hdaudiobooks.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=hdaudiobooks.com
 // @grant        none
 // ==/UserScript==
